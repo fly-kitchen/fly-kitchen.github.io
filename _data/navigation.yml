@@ -1,17 +1,18 @@
 #Please use the main menu items under the "text"
-- text: About Us
+- text: Brands
   url: /about
-- text: Services
+- text: Platforms
   url: /services
-- text: Portfolios 
+- text: Kitchen
   url: /portfolios
-- text: Blog
+- text: Team
   url: /blog
   submenu:
   - text: Blog Details
     url: /wordpress-hosting
   - text: 404
     url: /404
-- text: Contact Us
+- text: Opportunities
   url: /contact
- 
+- text: Contact
+  url: /contact
