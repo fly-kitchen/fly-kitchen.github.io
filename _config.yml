@@ -17,8 +17,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-facebook_url: "https://www.facebook.com/tortoiztheme"
-twitter_url: "https://twitter.com/tortoizthemes"
+facebook_url: "https://www.facebook.com/"
+twitter_url: "https://twitter.com/"
 instagram_url: "https://instagram.com/"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
