@@ -1,12 +1,6 @@
 // Deneb Why css
 .deneb_why{
 	position: relative;
-	.section_title{
-		@media #{$md}{
-			margin: 0;
-			margin-bottom: 60px;
-		}
-	}
 
 	h4 {
 		text-transform: uppercase;
@@ -27,27 +21,48 @@
 		padding: 40px;
 	}
 
-.item1 {
+	.item1 {
 	// border-top: none;
 	// border-left: none;
-	border:none;
-}
+		border:none;
 
-.item2 {
-	border-top: none;
-	border-right: none;
-	border-bottom: none;
-}
+		@media #{$md}{
+			border-bottom: 2px dashed $theme_color;
+		}
+		@media #{$xs}{
+			border-bottom: 2px dashed $theme_color;
+		}
+	}
 
-.item3 {
-	border-bottom: none;
-	border-left: none;
-	border-right: none;
-}
+	.item2 {
+		border-top: none;
+		border-right: none;
+		border-bottom: none;
 
-.item4 {
-	border-bottom: none;
-	border-right: none;
-}
+		@media #{$md}{
+			border: none;
+		}
+		@media #{$xs}{
+			border: none;
+		}
+	}
+
+	.item3 {
+		border-bottom: none;
+		border-left: none;
+		border-right: none;
+	}
+
+	.item4 {
+		border-bottom: none;
+		border-right: none;
+
+		@media #{$md}{
+			border-left: none;
+		}
+		@media #{$xs}{
+			border-left: none;
+		}
+	}
 
 }
