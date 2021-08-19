@@ -7,6 +7,12 @@
 		font-weight: bold;
 	}
 
+	h2 {
+		&:after{
+			width: 74px;
+		}
+	}
+
 	p {
 		margin-top: 10px;
 	}
