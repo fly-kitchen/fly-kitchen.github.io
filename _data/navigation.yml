@@ -1,13 +1,13 @@
 #Please use the main menu items under the "text"
 - text: Brands
-  url:
+  url: brands
 - text: Platforms
-  url:
+  url: platforms
 - text: Kitchen
-  url:
+  url: kitchen
 - text: Team
-  url:
+  url: team
 - text: Opportunities
-  url:
+  url: opportunities
 - text: Contact
-  url: 
+  url: contact
