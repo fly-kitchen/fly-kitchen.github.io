@@ -1,0 +1,45 @@
+// Deneb Why css
+.deneb_contact{
+	position: relative;
+	.section_title{
+		@media #{$md}{
+			margin: 0;
+			margin-bottom: 60px;
+		}
+	}
+	.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-auto-rows: 20vh 20vh;
+}
+
+.item {
+	border: 2px dashed $theme_color;
+	text-align: center;
+}
+
+.item:nth-child(1) {
+	border-top: none;
+	border-left: none;
+	text-align:center;
+}
+
+.item:nth-child(2) {
+	border-top: none;
+	border-right: none;
+	text-align:center;
+}
+
+.item:nth-child(3) {
+	border-bottom: none;
+	border-left: none;
+	text-align:center;
+}
+
+.item:nth-child(4) {
+	border-bottom: none;
+	border-right: none;
+	text-align:center;
+}
+
+}
