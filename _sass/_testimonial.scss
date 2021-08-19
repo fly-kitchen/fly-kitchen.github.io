@@ -2,6 +2,12 @@
 .deneb_testimonial{
 	overflow: hidden;
 	padding-bottom: 165px;
+
+	.testi{
+			margin-top: 100px;
+			margin-bottom: 100px;
+	}
+
 	.row1{
 		max-width: 700px;
 		display: flex;
@@ -97,7 +103,7 @@
 			}
 			.client_info{
 				h3{
-					font-weight: bold; 
+					font-weight: bold;
 				}
 				h5{
 					font-size: 18px;
@@ -141,5 +147,5 @@
 // testimonial_v1
 .testimonial_v1{
 	position: relative;
-	
+
 }
