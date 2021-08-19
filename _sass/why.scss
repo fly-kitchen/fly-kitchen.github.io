@@ -7,39 +7,47 @@
 			margin-bottom: 60px;
 		}
 	}
-	.grid {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-auto-rows: 20vh 20vh;
+
+	h4 {
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+
+	p {
+		margin-top: 10px;
+	}
+
+	.grid{
+		padding: 0;
+	}
+
+	.content-wrapper{
+		border: 2px dashed $theme_color;
+		text-align: center;
+		padding: 40px;
+	}
+
+.item1 {
+	// border-top: none;
+	// border-left: none;
+	border:none;
 }
 
-.item {
-	border: 2px dashed $theme_color;
-	text-align: center;
-}
-
-.item:nth-child(1) {
-	border-top: none;
-	border-left: none;
-	text-align:center;
-}
-
-.item:nth-child(2) {
+.item2 {
 	border-top: none;
 	border-right: none;
-	text-align:center;
+	border-bottom: none;
 }
 
-.item:nth-child(3) {
+.item3 {
 	border-bottom: none;
 	border-left: none;
-	text-align:center;
+	border-right: none;
 }
 
-.item:nth-child(4) {
+.item4 {
 	border-bottom: none;
 	border-right: none;
-	text-align:center;
 }
 
 }
