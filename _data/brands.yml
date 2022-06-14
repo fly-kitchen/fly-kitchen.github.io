@@ -1,0 +1,34 @@
+header-title: Our Brands
+
+brand-list: 
+  - name: hatid_pinoy
+    image: hatidpinoy.png
+    link: https://hatidpinoy-paymate.web.getbotty.co/
+
+  - name: jade_express
+    image: jadeexpress.png
+    link: https://jadeexpress-paymate.web.getbotty.co/
+
+  - name:
+    image: pastadepot.png
+    link: https://pastadepot-paymate.web.getbotty.co/
+
+  - name: chicky_wings
+    image: chickywings.png
+    link:  
+
+  - name: nihongo
+    image: nihongo.png
+    link:  
+
+  - name: hatid_chinoy
+    image: hatidchinoy.png
+    link:  
+
+  - name: chefs_bounty
+    image: chefs_bounty.png
+    link:  
+
+  - name: taichungpearl
+    image: taichungpearl.png
+    link:  https://taichungpearl-paymate.web.getbotty.co/

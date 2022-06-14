@@ -1,0 +1,22 @@
+header-title: Platforms
+
+platform-list:
+  - name: foodpanda
+    image: icon_7.png
+    link: https://www.foodpanda.ph/
+
+  - name: grabfood
+    image: icon_8.png
+    link: https://food.grab.com/ph/en/
+
+  - name: beep
+    image: icon_9.png
+    link:
+
+  - name: messenger
+    image: icon_11.png
+    link:
+
+  - name: gcash
+    image: icon_12.png
+    link:  

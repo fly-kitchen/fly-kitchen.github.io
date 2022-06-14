@@ -7,16 +7,22 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section_title text-center">
-					<h2>Our Brands</h2>
+					<h2>{{ site.data.brands.header-title }}</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row">
-			{% for service in site.services %}
+			{% for brand in site.data.brands.brand-list %}
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="grid_item wow fadeInUp">
 					<div class="icon">
-						<img src="{{service.icon}}" class="img-fluid" alt="">
+						{% if brand.link != null %}
+						<a href="{{ brand.link }}" target="_blank">
+							<img src="/assets/images/{{ brand.image }}" class="img-fluid" alt="{{ brand.name }}">
+						</a>
+						{% else %}
+						<img src="/assets/images/{{ brand.image }}" class="img-fluid" alt="{{ brand.name }}">
+						{% endif %}
 					</div>
 					<!-- <div class="info">
 						<h4><a href="{{service.url}}">{{service.title}}</a></h4>

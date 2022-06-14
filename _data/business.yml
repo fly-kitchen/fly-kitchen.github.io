@@ -1,0 +1,14 @@
+header-title: Business Opportunities
+
+business-list:
+  - icon: icon_5.png
+    title: Restaurant Partnerships
+    description-list:
+        - text: Take your restaurant online.
+        - text: Increase your branches/network with us.
+
+  - icon: icon_6.png
+    title: Franchising
+    description-list:
+        - text: Own a kitchen business for less than 1M - ROI in less than a year.
+        - text: Training provided. All-in.
