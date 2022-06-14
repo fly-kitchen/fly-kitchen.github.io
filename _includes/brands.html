@@ -18,10 +18,10 @@
 					<div class="icon">
 						{% if brand.link != null %}
 						<a href="{{ brand.link }}" target="_blank">
-							<img src="/assets/images/brands/{{ brand.image }}" class="img-fluid" alt="{{ brand.name }}">
+							<img src="/assets/images/{{ brand.image }}" class="img-fluid" alt="{{ brand.name }}">
 						</a>
 						{% else %}
-						<img src="/assets/images/brands/{{ brand.image }}" class="img-fluid" alt="{{ brand.name }}">
+						<img src="/assets/images/{{ brand.image }}" class="img-fluid" alt="{{ brand.name }}">
 						{% endif %}
 					</div>
 					<!-- <div class="info">
