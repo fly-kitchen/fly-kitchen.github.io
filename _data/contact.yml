@@ -1,0 +1,16 @@
+header-title: Get In Touch With Us
+header-description: Interested to know more? Contact us to find out <br/>
+                    more about Fly Kitchen and what we offer.
+banner-image: contact.png
+
+contact-email: flykitchenph@gmail.com
+
+contact-list:
+  - contact-number: 639175616721
+    contact-display-text: 09175616721
+
+  - contact-number: 639178370102
+    contact-display-text: 09178370102
+
+contact-fb: https://www.facebook.com/
+contact-instagram: https://instagram.com/
