@@ -25,3 +25,6 @@ brand-list:
 - name: taichungpearl
   image: taichungpearl.png
   link: https://taichungpearl-paymate.web.getbotty.co/
+- name: Pick a roo
+  image: pickaroo.png
+  link: https://pickaroo.com/
