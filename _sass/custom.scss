@@ -9,6 +9,10 @@ body {
 
 	.team-wrapper{
 		min-height: 1361px;
+
+		.single_project{
+			min-height: 680px;
+		}
 	}
 }
 
@@ -27,6 +31,10 @@ body {
 	#team{
 		.team-wrapper{
 			min-height: 1290px;
+
+			.single_project{
+				min-height: 640px;
+			}
 		}
 	}
 
@@ -36,6 +44,10 @@ body {
 	#team{
 		.team-wrapper{
 			min-height: 1915px;
+
+			.single_project{
+				min-height: 600px;
+			}
 		}
 	}
 }
@@ -44,6 +56,10 @@ body {
 	#team{
 		.team-wrapper{
 			min-height: 3776px;
+
+			.single_project{
+				min-height: 0;
+			}
 		}
 	}
 }
