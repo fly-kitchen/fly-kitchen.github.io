@@ -4,6 +4,19 @@ body {
 	color: #011a3e;
 }
 
+.banner-section{
+	#banner{
+		padding-top: 120px;
+	}
+}
+
+#brands{
+	.grid-list-item{
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+}
+
 #team{
 	position: relative;
 
@@ -16,11 +29,9 @@ body {
 	}
 }
 
-.banner-section{
-	#banner{
-		padding-top: 120px;
-	}
-}
+
+
+
 
 #why-fly-kitchen{
 	padding-bottom: 120px
