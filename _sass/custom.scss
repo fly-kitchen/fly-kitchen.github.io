@@ -7,6 +7,10 @@ body {
 .banner-section{
 	#banner{
 		padding-top: 120px;
+
+		.banner-image{
+			width: 85%;
+		}
 	}
 }
 
@@ -28,10 +32,6 @@ body {
 		}
 	}
 }
-
-
-
-
 
 #why-fly-kitchen{
 	padding-bottom: 120px
@@ -64,6 +64,15 @@ body {
 }
 
 @media (max-width: 767px){
+	.banner-section{
+		#banner{
+			.banner-image{
+				width: 100%;
+			}
+		} 
+	} 
+
+
 	#team{
 		.team-wrapper{
 			min-height: 3776px;
