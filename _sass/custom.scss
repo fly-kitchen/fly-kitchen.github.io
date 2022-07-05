@@ -68,6 +68,25 @@ body {
 }
 
 @media (max-width: 991px){
+	.banner{
+		padding-top: 180px;
+
+		.hero_slider{
+			.signle_slider{
+				.banner_content{
+					margin-bottom: 30px;
+				}
+			} 
+		} 
+
+		.hero-image{
+			margin-left: auto;
+			margin-right: auto;
+			width: 60%;
+			min-width: 60%;
+		}
+	}
+
 	#team{
 		.team-wrapper{
 			min-height: 1915px;
@@ -93,6 +112,7 @@ body {
 }
 
 @media (max-width: 767px){
+
 	.banner-section{
 		#banner{
 			.banner-image{
@@ -113,6 +133,10 @@ body {
 }
 
 @media (max-width: 580px){
+	.banner{
+		padding-top: 160px;
+	}
+
 	#team{
 		.team-wrapper{
 			min-height: 3810px;
