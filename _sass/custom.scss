@@ -34,6 +34,13 @@ body {
 	}
 }
 
+#kitchen{
+	.kitchen-image{
+		width: 80%;
+		min-width: 80%;
+	}
+}
+
 #why-fly-kitchen{
 	padding-bottom: 120px
 }
@@ -72,6 +79,13 @@ body {
 			}
 		} 
 	} 
+
+	#kitchen{
+		.kitchen-image{
+			width: 100%;
+			min-width: 0;
+		}
+	}
 
 
 	#team{
