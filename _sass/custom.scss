@@ -45,6 +45,16 @@ body {
 	}
 }
 
+#opportunities{
+	.business-info-container{
+		.business-info-list{
+			.pircing_box{
+				min-height: 385px;
+			}
+		}
+	}
+}
+
 #kitchen{
 	.kitchen-image{
 		width: 90%;
@@ -69,6 +79,16 @@ body {
 
 			.single_project{
 				min-height: 640px;
+			}
+		}
+	}
+
+	#opportunities{
+		.business-info-container{
+			.business-info-list{
+				.pircing_box{
+					min-height: 428px;
+				}
 			}
 		}
 	}
@@ -105,6 +125,16 @@ body {
 		}
 	}
 
+	#opportunities{
+		.business-info-container{
+			.business-info-list{
+				.pircing_box{
+					min-height: 475px;
+				}
+			}
+		}
+	}
+
 	#kitchen{
 		.title-container{
 			margin-left: auto;
@@ -135,6 +165,16 @@ body {
 
 			.single_project{
 				min-height: 0;
+			}
+		}
+	}
+
+	#opportunities{
+		.business-info-container{
+			.business-info-list{
+				.pircing_box{
+					min-height: 0;
+				}
 			}
 		}
 	}
