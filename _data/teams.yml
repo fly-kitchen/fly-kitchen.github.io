@@ -1,29 +1,35 @@
+---
 header-title: Meet Our Team
-header-description: Introducing the team behind Fly Kitchen who is dedicated and determined to continuously uplift the company.
-
-team-list: 
-  - image: team_1.png
-    name: George Yang
-    position: Founder & Chairman Emeritus, McDonald’s Philippines
-    description: Mentor & Senior Advisor
-
-  - image: team_2.png
-    name: Kris Yang
-    position: Founder & President
-    description: Kris comes with over 20 years experience working in the family business that has brought global restaurant brands to the Philippines such as McDonald's, TGIFridays, Chili's, Italiannis, Outback Steakhouse, among others.
-
-  - image: team_3.png
-    name: Marco Alquiros
-    position: Founder & COO
-    description: Marco has over 15 years professional experience and lifelong mentoring from the family food businesses of Giligan's Island with over 100 branches nationwide, Guilly's, and Kapitan Gimmo before venturing out to his own brands of Kalye Unligrill and Marti's Food Shack.
-
-  - image: team_4.png
-    name: Thess Joloso
-    position: Chief Food Scientist
-    description: Has over 30 years of experience in the field of Product Research and Development in various leading food chain restaurants. Finished a short culinary course in China. And, also established her own meat and meat products in the past.
-
-  - image: team_5.png
-    name: Nina Nery
-    position: Social Media Manager
-    description: Nina is an Alumna of St. Scholastica's College, Manila with a Bachelor's Degree of Hotel and Restaurant Management. She's currently working as a Social Media Manager with 3 years of experience up till now and also a PR Host Promoter at various speak easy bars and clubs in the Metro.
-
+header-description: Introducing the team behind Fly Kitchen who is dedicated and determined
+  to continuously uplift the company.
+team-list:
+- image: team_1.png
+  name: George Yang
+  position: Founder & Chairman Emeritus, McDonald’s Philippines
+  description: Mentor & Senior Advisor
+- image: team_2.png
+  name: Kris Yang
+  position: Founder & President
+  description: Kris comes with over 20 years experience working in the family business
+    that has brought global restaurant brands to the Philippines such as McDonald's,
+    TGIFridays, Chili's, Italiannis, Outback Steakhouse, among others.
+- image: team_3.png
+  name: Marco Alquiros
+  position: Founder & COO
+  description: Marco has over 15 years professional experience and lifelong mentoring
+    from the family food businesses of Giligan's Island with over 100 branches nationwide,
+    Guilly's, and Kapitan Gimmo before venturing out to his own brands of Kalye Unligrill
+    and Marti's Food Shack.
+- image: team_4.png
+  name: Thess Joloso
+  position: Chief Food Scientist
+  description: Has over 30 years of experience in the field of Product Research and
+    Development in various leading food chain restaurants. Finished a short culinary
+    course in China. And, also established her own meat and meat products in the past.
+- image: team_5.png
+  name: Nina Nery
+  position: Marketing Manager
+  description: Nina is an Alumna of St. Scholastica's College, Manila with a Bachelor's
+    Degree of Hotel and Restaurant Management. She's currently working as a Social
+    Media Manager with 3 years of experience up till now and also a PR Host Promoter
+    at various speak easy bars and clubs in the Metro.
